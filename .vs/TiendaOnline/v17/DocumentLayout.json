@@ -1,0 +1,377 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\erick\\source\\repos\\TiendaOnline\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6BD47856-A47E-4820-BDE9-36F14F156806}|TiendaOnline\\TiendaOnline.csproj|c:\\users\\erick\\source\\repos\\tiendaonline\\tiendaonline\\controllers\\pedidoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BD47856-A47E-4820-BDE9-36F14F156806}|TiendaOnline\\TiendaOnline.csproj|solutionrelative:tiendaonline\\controllers\\pedidoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BD47856-A47E-4820-BDE9-36F14F156806}|TiendaOnline\\TiendaOnline.csproj|c:\\users\\erick\\source\\repos\\tiendaonline\\tiendaonline\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BD47856-A47E-4820-BDE9-36F14F156806}|TiendaOnline\\TiendaOnline.csproj|solutionrelative:tiendaonline\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BD47856-A47E-4820-BDE9-36F14F156806}|TiendaOnline\\TiendaOnline.csproj|c:\\users\\erick\\source\\repos\\tiendaonline\\tiendaonline\\views\\pedidos\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6BD47856-A47E-4820-BDE9-36F14F156806}|TiendaOnline\\TiendaOnline.csproj|solutionrelative:tiendaonline\\views\\pedidos\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BD47856-A47E-4820-BDE9-36F14F156806}|TiendaOnline\\TiendaOnline.csproj|c:\\users\\erick\\source\\repos\\tiendaonline\\tiendaonline\\views\\pedidos\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6BD47856-A47E-4820-BDE9-36F14F156806}|TiendaOnline\\TiendaOnline.csproj|solutionrelative:tiendaonline\\views\\pedidos\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BD47856-A47E-4820-BDE9-36F14F156806}|TiendaOnline\\TiendaOnline.csproj|c:\\users\\erick\\source\\repos\\tiendaonline\\tiendaonline\\views\\pedidos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6BD47856-A47E-4820-BDE9-36F14F156806}|TiendaOnline\\TiendaOnline.csproj|solutionrelative:tiendaonline\\views\\pedidos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BD47856-A47E-4820-BDE9-36F14F156806}|TiendaOnline\\TiendaOnline.csproj|c:\\users\\erick\\source\\repos\\tiendaonline\\tiendaonline\\models\\entities\\pedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BD47856-A47E-4820-BDE9-36F14F156806}|TiendaOnline\\TiendaOnline.csproj|solutionrelative:tiendaonline\\models\\entities\\pedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BD47856-A47E-4820-BDE9-36F14F156806}|TiendaOnline\\TiendaOnline.csproj|c:\\users\\erick\\source\\repos\\tiendaonline\\tiendaonline\\models\\entities\\productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BD47856-A47E-4820-BDE9-36F14F156806}|TiendaOnline\\TiendaOnline.csproj|solutionrelative:tiendaonline\\models\\entities\\productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BD47856-A47E-4820-BDE9-36F14F156806}|TiendaOnline\\TiendaOnline.csproj|c:\\users\\erick\\source\\repos\\tiendaonline\\tiendaonline\\models\\entities\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BD47856-A47E-4820-BDE9-36F14F156806}|TiendaOnline\\TiendaOnline.csproj|solutionrelative:tiendaonline\\models\\entities\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BD47856-A47E-4820-BDE9-36F14F156806}|TiendaOnline\\TiendaOnline.csproj|c:\\users\\erick\\source\\repos\\tiendaonline\\tiendaonline\\models\\addproductosmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BD47856-A47E-4820-BDE9-36F14F156806}|TiendaOnline\\TiendaOnline.csproj|solutionrelative:tiendaonline\\models\\addproductosmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BD47856-A47E-4820-BDE9-36F14F156806}|TiendaOnline\\TiendaOnline.csproj|c:\\users\\erick\\source\\repos\\tiendaonline\\tiendaonline\\models\\addclientesmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BD47856-A47E-4820-BDE9-36F14F156806}|TiendaOnline\\TiendaOnline.csproj|solutionrelative:tiendaonline\\models\\addclientesmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BD47856-A47E-4820-BDE9-36F14F156806}|TiendaOnline\\TiendaOnline.csproj|c:\\users\\erick\\source\\repos\\tiendaonline\\tiendaonline\\views\\productos\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6BD47856-A47E-4820-BDE9-36F14F156806}|TiendaOnline\\TiendaOnline.csproj|solutionrelative:tiendaonline\\views\\productos\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BD47856-A47E-4820-BDE9-36F14F156806}|TiendaOnline\\TiendaOnline.csproj|c:\\users\\erick\\source\\repos\\tiendaonline\\tiendaonline\\views\\productos\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6BD47856-A47E-4820-BDE9-36F14F156806}|TiendaOnline\\TiendaOnline.csproj|solutionrelative:tiendaonline\\views\\productos\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BD47856-A47E-4820-BDE9-36F14F156806}|TiendaOnline\\TiendaOnline.csproj|c:\\users\\erick\\source\\repos\\tiendaonline\\tiendaonline\\views\\productos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6BD47856-A47E-4820-BDE9-36F14F156806}|TiendaOnline\\TiendaOnline.csproj|solutionrelative:tiendaonline\\views\\productos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BD47856-A47E-4820-BDE9-36F14F156806}|TiendaOnline\\TiendaOnline.csproj|c:\\users\\erick\\source\\repos\\tiendaonline\\tiendaonline\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6BD47856-A47E-4820-BDE9-36F14F156806}|TiendaOnline\\TiendaOnline.csproj|solutionrelative:tiendaonline\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BD47856-A47E-4820-BDE9-36F14F156806}|TiendaOnline\\TiendaOnline.csproj|c:\\users\\erick\\source\\repos\\tiendaonline\\tiendaonline\\views\\clientes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6BD47856-A47E-4820-BDE9-36F14F156806}|TiendaOnline\\TiendaOnline.csproj|solutionrelative:tiendaonline\\views\\clientes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BD47856-A47E-4820-BDE9-36F14F156806}|TiendaOnline\\TiendaOnline.csproj|c:\\users\\erick\\source\\repos\\tiendaonline\\tiendaonline\\views\\clientes\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6BD47856-A47E-4820-BDE9-36F14F156806}|TiendaOnline\\TiendaOnline.csproj|solutionrelative:tiendaonline\\views\\clientes\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BD47856-A47E-4820-BDE9-36F14F156806}|TiendaOnline\\TiendaOnline.csproj|c:\\users\\erick\\source\\repos\\tiendaonline\\tiendaonline\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6BD47856-A47E-4820-BDE9-36F14F156806}|TiendaOnline\\TiendaOnline.csproj|solutionrelative:tiendaonline\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BD47856-A47E-4820-BDE9-36F14F156806}|TiendaOnline\\TiendaOnline.csproj|c:\\users\\erick\\source\\repos\\tiendaonline\\tiendaonline\\views\\clientes\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6BD47856-A47E-4820-BDE9-36F14F156806}|TiendaOnline\\TiendaOnline.csproj|solutionrelative:tiendaonline\\views\\clientes\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BD47856-A47E-4820-BDE9-36F14F156806}|TiendaOnline\\TiendaOnline.csproj|c:\\users\\erick\\source\\repos\\tiendaonline\\tiendaonline\\models\\addpedidosmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BD47856-A47E-4820-BDE9-36F14F156806}|TiendaOnline\\TiendaOnline.csproj|solutionrelative:tiendaonline\\models\\addpedidosmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BD47856-A47E-4820-BDE9-36F14F156806}|TiendaOnline\\TiendaOnline.csproj|c:\\users\\erick\\source\\repos\\tiendaonline\\tiendaonline\\data\\aplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BD47856-A47E-4820-BDE9-36F14F156806}|TiendaOnline\\TiendaOnline.csproj|solutionrelative:tiendaonline\\data\\aplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BD47856-A47E-4820-BDE9-36F14F156806}|TiendaOnline\\TiendaOnline.csproj|c:\\users\\erick\\source\\repos\\tiendaonline\\tiendaonline\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6BD47856-A47E-4820-BDE9-36F14F156806}|TiendaOnline\\TiendaOnline.csproj|solutionrelative:tiendaonline\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BD47856-A47E-4820-BDE9-36F14F156806}|TiendaOnline\\TiendaOnline.csproj|c:\\users\\erick\\source\\repos\\tiendaonline\\tiendaonline\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BD47856-A47E-4820-BDE9-36F14F156806}|TiendaOnline\\TiendaOnline.csproj|solutionrelative:tiendaonline\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\erick\\source\\repos\\TiendaOnline\\TiendaOnline\\Views\\Clientes\\Edit.cshtml",
+              "RelativeDocumentMoniker": "TiendaOnline\\Views\\Clientes\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\erick\\source\\repos\\TiendaOnline\\TiendaOnline\\Views\\Clientes\\Edit.cshtml",
+              "RelativeToolTip": "TiendaOnline\\Views\\Clientes\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-01T18:08:01.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\Users\\erick\\source\\repos\\TiendaOnline\\TiendaOnline\\Views\\Pedidos\\List.cshtml",
+              "RelativeDocumentMoniker": "TiendaOnline\\Views\\Pedidos\\List.cshtml",
+              "ToolTip": "C:\\Users\\erick\\source\\repos\\TiendaOnline\\TiendaOnline\\Views\\Pedidos\\List.cshtml",
+              "RelativeToolTip": "TiendaOnline\\Views\\Pedidos\\List.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAYAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-01T19:36:55.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\erick\\source\\repos\\TiendaOnline\\TiendaOnline\\Views\\Pedidos\\Add.cshtml",
+              "RelativeDocumentMoniker": "TiendaOnline\\Views\\Pedidos\\Add.cshtml",
+              "ToolTip": "C:\\Users\\erick\\source\\repos\\TiendaOnline\\TiendaOnline\\Views\\Pedidos\\Add.cshtml",
+              "RelativeToolTip": "TiendaOnline\\Views\\Pedidos\\Add.cshtml",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAABwAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-01T19:27:47.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PedidosController.cs",
+              "DocumentMoniker": "C:\\Users\\erick\\source\\repos\\TiendaOnline\\TiendaOnline\\Controllers\\PedidosController.cs",
+              "RelativeDocumentMoniker": "TiendaOnline\\Controllers\\PedidosController.cs",
+              "ToolTip": "C:\\Users\\erick\\source\\repos\\TiendaOnline\\TiendaOnline\\Controllers\\PedidosController.cs",
+              "RelativeToolTip": "TiendaOnline\\Controllers\\PedidosController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T18:56:43.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\erick\\source\\repos\\TiendaOnline\\TiendaOnline\\Views\\Pedidos\\Edit.cshtml",
+              "RelativeDocumentMoniker": "TiendaOnline\\Views\\Pedidos\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\erick\\source\\repos\\TiendaOnline\\TiendaOnline\\Views\\Pedidos\\Edit.cshtml",
+              "RelativeToolTip": "TiendaOnline\\Views\\Pedidos\\Edit.cshtml",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAADEAAABpAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-01T19:45:53.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductosController.cs",
+              "DocumentMoniker": "C:\\Users\\erick\\source\\repos\\TiendaOnline\\TiendaOnline\\Controllers\\ProductosController.cs",
+              "RelativeDocumentMoniker": "TiendaOnline\\Controllers\\ProductosController.cs",
+              "ToolTip": "C:\\Users\\erick\\source\\repos\\TiendaOnline\\TiendaOnline\\Controllers\\ProductosController.cs",
+              "RelativeToolTip": "TiendaOnline\\Controllers\\ProductosController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAEwBkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T20:51:43.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\erick\\source\\repos\\TiendaOnline\\TiendaOnline\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "TiendaOnline\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\erick\\source\\repos\\TiendaOnline\\TiendaOnline\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "TiendaOnline\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAACIAAAB8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-01T17:57:58.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AddClientesModel.cs",
+              "DocumentMoniker": "C:\\Users\\erick\\source\\repos\\TiendaOnline\\TiendaOnline\\Models\\AddClientesModel.cs",
+              "RelativeDocumentMoniker": "TiendaOnline\\Models\\AddClientesModel.cs",
+              "ToolTip": "C:\\Users\\erick\\source\\repos\\TiendaOnline\\TiendaOnline\\Models\\AddClientesModel.cs",
+              "RelativeToolTip": "TiendaOnline\\Models\\AddClientesModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T15:51:57.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Clientes.cs",
+              "DocumentMoniker": "C:\\Users\\erick\\source\\repos\\TiendaOnline\\TiendaOnline\\Models\\Entities\\Clientes.cs",
+              "RelativeDocumentMoniker": "TiendaOnline\\Models\\Entities\\Clientes.cs",
+              "ToolTip": "C:\\Users\\erick\\source\\repos\\TiendaOnline\\TiendaOnline\\Models\\Entities\\Clientes.cs",
+              "RelativeToolTip": "TiendaOnline\\Models\\Entities\\Clientes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T14:29:55.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Productos.cs",
+              "DocumentMoniker": "C:\\Users\\erick\\source\\repos\\TiendaOnline\\TiendaOnline\\Models\\Entities\\Productos.cs",
+              "RelativeDocumentMoniker": "TiendaOnline\\Models\\Entities\\Productos.cs",
+              "ToolTip": "C:\\Users\\erick\\source\\repos\\TiendaOnline\\TiendaOnline\\Models\\Entities\\Productos.cs",
+              "RelativeToolTip": "TiendaOnline\\Models\\Entities\\Productos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T15:03:13.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Pedidos.cs",
+              "DocumentMoniker": "C:\\Users\\erick\\source\\repos\\TiendaOnline\\TiendaOnline\\Models\\Entities\\Pedidos.cs",
+              "RelativeDocumentMoniker": "TiendaOnline\\Models\\Entities\\Pedidos.cs",
+              "ToolTip": "C:\\Users\\erick\\source\\repos\\TiendaOnline\\TiendaOnline\\Models\\Entities\\Pedidos.cs",
+              "RelativeToolTip": "TiendaOnline\\Models\\Entities\\Pedidos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T14:39:17.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AddProductosModel.cs",
+              "DocumentMoniker": "C:\\Users\\erick\\source\\repos\\TiendaOnline\\TiendaOnline\\Models\\AddProductosModel.cs",
+              "RelativeDocumentMoniker": "TiendaOnline\\Models\\AddProductosModel.cs",
+              "ToolTip": "C:\\Users\\erick\\source\\repos\\TiendaOnline\\TiendaOnline\\Models\\AddProductosModel.cs",
+              "RelativeToolTip": "TiendaOnline\\Models\\AddProductosModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T20:55:54.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\Users\\erick\\source\\repos\\TiendaOnline\\TiendaOnline\\Views\\Clientes\\List.cshtml",
+              "RelativeDocumentMoniker": "TiendaOnline\\Views\\Clientes\\List.cshtml",
+              "ToolTip": "C:\\Users\\erick\\source\\repos\\TiendaOnline\\TiendaOnline\\Views\\Clientes\\List.cshtml",
+              "RelativeToolTip": "TiendaOnline\\Views\\Clientes\\List.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-01T17:46:11.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\erick\\source\\repos\\TiendaOnline\\TiendaOnline\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "TiendaOnline\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\erick\\source\\repos\\TiendaOnline\\TiendaOnline\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "TiendaOnline\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-01T17:57:50.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\erick\\source\\repos\\TiendaOnline\\TiendaOnline\\Views\\Productos\\Add.cshtml",
+              "RelativeDocumentMoniker": "TiendaOnline\\Views\\Productos\\Add.cshtml",
+              "ToolTip": "C:\\Users\\erick\\source\\repos\\TiendaOnline\\TiendaOnline\\Views\\Productos\\Add.cshtml",
+              "RelativeToolTip": "TiendaOnline\\Views\\Productos\\Add.cshtml",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-01T21:03:09.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\Users\\erick\\source\\repos\\TiendaOnline\\TiendaOnline\\Views\\Productos\\List.cshtml",
+              "RelativeDocumentMoniker": "TiendaOnline\\Views\\Productos\\List.cshtml",
+              "ToolTip": "C:\\Users\\erick\\source\\repos\\TiendaOnline\\TiendaOnline\\Views\\Productos\\List.cshtml",
+              "RelativeToolTip": "TiendaOnline\\Views\\Productos\\List.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-01T21:08:48.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\erick\\source\\repos\\TiendaOnline\\TiendaOnline\\Views\\Productos\\Edit.cshtml",
+              "RelativeDocumentMoniker": "TiendaOnline\\Views\\Productos\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\erick\\source\\repos\\TiendaOnline\\TiendaOnline\\Views\\Productos\\Edit.cshtml",
+              "RelativeToolTip": "TiendaOnline\\Views\\Productos\\Edit.cshtml",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAAABgAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-01T21:11:59.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AddPedidosModel.cs",
+              "DocumentMoniker": "C:\\Users\\erick\\source\\repos\\TiendaOnline\\TiendaOnline\\Models\\AddPedidosModel.cs",
+              "RelativeDocumentMoniker": "TiendaOnline\\Models\\AddPedidosModel.cs",
+              "ToolTip": "C:\\Users\\erick\\source\\repos\\TiendaOnline\\TiendaOnline\\Models\\AddPedidosModel.cs",
+              "RelativeToolTip": "TiendaOnline\\Models\\AddPedidosModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T19:01:49.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\erick\\source\\repos\\TiendaOnline\\TiendaOnline\\Views\\Clientes\\Add.cshtml",
+              "RelativeDocumentMoniker": "TiendaOnline\\Views\\Clientes\\Add.cshtml",
+              "ToolTip": "C:\\Users\\erick\\source\\repos\\TiendaOnline\\TiendaOnline\\Views\\Clientes\\Add.cshtml",
+              "RelativeToolTip": "TiendaOnline\\Views\\Clientes\\Add.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-01T15:41:01.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\erick\\source\\repos\\TiendaOnline\\TiendaOnline\\Program.cs",
+              "RelativeDocumentMoniker": "TiendaOnline\\Program.cs",
+              "ToolTip": "C:\\Users\\erick\\source\\repos\\TiendaOnline\\TiendaOnline\\Program.cs",
+              "RelativeToolTip": "TiendaOnline\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T15:09:47.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AplicationDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\erick\\source\\repos\\TiendaOnline\\TiendaOnline\\Data\\AplicationDBContext.cs",
+              "RelativeDocumentMoniker": "TiendaOnline\\Data\\AplicationDBContext.cs",
+              "ToolTip": "C:\\Users\\erick\\source\\repos\\TiendaOnline\\TiendaOnline\\Data\\AplicationDBContext.cs",
+              "RelativeToolTip": "TiendaOnline\\Data\\AplicationDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T14:26:10.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\erick\\source\\repos\\TiendaOnline\\TiendaOnline\\appsettings.json",
+              "RelativeDocumentMoniker": "TiendaOnline\\appsettings.json",
+              "ToolTip": "C:\\Users\\erick\\source\\repos\\TiendaOnline\\TiendaOnline\\appsettings.json",
+              "RelativeToolTip": "TiendaOnline\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAACcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-01T15:18:44.212Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

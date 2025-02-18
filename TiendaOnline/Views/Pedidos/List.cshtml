@@ -1,0 +1,40 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+@model List<TiendaOnline.Models.Entities.Pedidos>
+
+<h1>Pedidos</h1>
+<table class="table">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>ID Clientes</th>
+            <th>ID Productos</th>
+            <th>Cantidad</th>
+            <th>Fecha</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.PedidoID</td>
+                <td>@item.ClienteID</td>
+                <td>@item.ProductoID</td>
+                <td>@item.Cantidad</td>
+                <td>@item.Fecha</td>
+                <td>
+                    <a class="btn btn-primary" asp-controller="Pedidos" asp-action="Edit" asp-route-id="@item.PedidoID">Editar</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<div class="mt-3">
+    <a class="btn btn-primary" asp-controller="Pedidos" asp-action="Add">Agregar</a>
+</div>
